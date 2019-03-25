@@ -1,4 +1,12 @@
 hi devo
 my option2
 
+<<<<<<< Updated upstream
 oooooooooooo
+=======
+
+i love programming
+pipipipi
+>>>>>>> Stashed changes
+
+11
